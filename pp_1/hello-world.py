@@ -1,3 +1,3 @@
 print ("Ala ma", "kota")
 print (2+2)
-print ('test udało sie')
+print ('test udało sie :)')
